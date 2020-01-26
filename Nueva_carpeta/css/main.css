@@ -1,0 +1,73 @@
+
+ body{
+   background-image: url("../img/slider_background.jpg");
+   margin: 0%;
+ }
+ 
+div{
+  text-align: center;
+}
+
+.boton_personalizado{
+  text-decoration: black;
+  color: aliceblue;
+  padding: 20px;
+}
+.referencias{
+    text-decoration: black;
+    color: #1883ba;
+}
+
+.boton_personalizado:hover{
+  color: #1883ba;
+  background-color: #ffffff;
+  border-radius: 20px;
+}
+
+.redirecciona{
+  text-align: center;
+  border-radius: 20px;
+  padding: 40px;
+}
+
+h1 {
+  color: #eeeeee;
+  text-align: center;
+  font-size: 120px;
+  text-shadow: 0.1em 0.1em 0.2em black;
+  overflow: hidden;
+  margin-bottom: 2px;
+}
+
+.texto {
+  margin-top: 2px;
+  text-align: center;
+  size: 10px;
+  color: aqua;
+  text-shadow: 0.1em 0.1em 0.2em black;
+}
+.if{
+  width: 60px;
+  padding: 10px;
+}
+
+.imagenes{
+  text-align: center;
+}
+.ref{
+  color: #eeeeee;
+}
+
+.f1,f2{
+  width: 400px;
+  color: white;
+  width: 40px;
+}
+.imagen_pequenia{
+  width: 300px;
+  height: 100px;
+}
+.imagen_figura{
+  width: 300px;
+  height: 300px;
+}
