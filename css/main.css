@@ -33,16 +33,19 @@ div{
 h1 {
   color: #eeeeee;
   text-align: center;
-  font-size: 120px;
+  font-size: 200%;
   text-shadow: 0.1em 0.1em 0.2em black;
   overflow: hidden;
   margin-bottom: 2px;
+  /* font-family: "Edwardian Script ITC"; */
+  /* font-family: "Embassy BT"; */
+  font-family: "Elephant";
 }
 
 .texto {
   margin-top: 2px;
   text-align: center;
-  size: 10px;
+  size: 200%;
   color: aqua;
   text-shadow: 0.1em 0.1em 0.2em black;
 }
@@ -70,4 +73,11 @@ h1 {
 .imagen_figura{
   width: 300px;
   height: 300px;
+}
+.texto1 {
+  margin-top: 2px;
+  text-align: center;
+  color: aqua;
+  font-size: 40px;
+  text-shadow: 0.1em 0.1em 0.2em black;
 }
